@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xshiz\\OneDrive\\Desktop\\breakpoint conflict tracker\\BreakpointConflictTracker.csproj",
+      "projectUniqueName": "C:\\Users\\xshiz\\OneDrive\\Desktop\\breakpoint-conflict-tracker\\BreakpointConflictTracker.csproj",
       "projectName": "BreakpointConflictTracker",
-      "projectPath": "C:\\Users\\xshiz\\OneDrive\\Desktop\\breakpoint conflict tracker\\BreakpointConflictTracker.csproj",
+      "projectPath": "C:\\Users\\xshiz\\OneDrive\\Desktop\\breakpoint-conflict-tracker\\BreakpointConflictTracker.csproj",
       "packagesPath": "C:\\Users\\xshiz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xshiz\\OneDrive\\Desktop\\breakpoint conflict tracker\\obj\\",
+      "outputPath": "C:\\Users\\xshiz\\OneDrive\\Desktop\\breakpoint-conflict-tracker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\xshiz\\AppData\\Roaming\\NuGet\\NuGet.Config"
