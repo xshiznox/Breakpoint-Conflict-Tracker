@@ -13,12 +13,13 @@ A Windows Forms application for tracking mod conflicts in the game Breakpoint.
 - Head Protection
 - Headset
 - Gloves
-- Facemask
+- Facemask (70+ items)
 - Pants (100+ items)
 - NVG
 - Shoes
 - Camo
 - Vests
+
 
 
 ## Installation
