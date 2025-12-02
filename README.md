@@ -15,10 +15,11 @@ A Windows Forms application for tracking mod conflicts in the game Breakpoint.
 - Gloves
 - Facemask (70+ items)
 - Pants (100+ items)
-- NVG
+- NVG (8 items)
 - Shoes
 - Camo
 - Vests
+
 
 
 
