@@ -42,5 +42,12 @@ To create a standalone executable:
 dotnet publish -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true
 ```
 
+## Scripts
+This repository includes several helper scripts to make development and deployment easier:
+
+- `build-and-publish.bat` - Builds and publishes the standalone executable
+- `create-release.bat` - Packages the executable and documentation into a release folder
+- `setup-github-repo.bat` - Provides instructions for setting up a GitHub repository
+
 ## License
 This project is licensed under the MIT License.
