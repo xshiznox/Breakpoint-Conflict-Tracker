@@ -1,0 +1,15 @@
+C:\Users\xshiz\OneDrive\Desktop\breakpoint conflict tracker\obj\Debug\net6.0-windows\BreakpointConflictTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xshiz\OneDrive\Desktop\breakpoint conflict tracker\obj\Debug\net6.0-windows\BreakpointConflictTracker.AssemblyInfoInputs.cache
+C:\Users\xshiz\OneDrive\Desktop\breakpoint conflict tracker\obj\Debug\net6.0-windows\BreakpointConflictTracker.AssemblyInfo.cs
+C:\Users\xshiz\OneDrive\Desktop\breakpoint conflict tracker\obj\Debug\net6.0-windows\BreakpointConflictTracker.csproj.CoreCompileInputs.cache
+C:\Users\xshiz\OneDrive\Desktop\breakpoint conflict tracker\obj\Debug\net6.0-windows\BreakpointConflictTracker.sourcelink.json
+C:\Users\xshiz\OneDrive\Desktop\breakpoint conflict tracker\bin\Debug\net6.0-windows\BreakpointConflictTracker.exe
+C:\Users\xshiz\OneDrive\Desktop\breakpoint conflict tracker\bin\Debug\net6.0-windows\BreakpointConflictTracker.deps.json
+C:\Users\xshiz\OneDrive\Desktop\breakpoint conflict tracker\bin\Debug\net6.0-windows\BreakpointConflictTracker.runtimeconfig.json
+C:\Users\xshiz\OneDrive\Desktop\breakpoint conflict tracker\bin\Debug\net6.0-windows\BreakpointConflictTracker.dll
+C:\Users\xshiz\OneDrive\Desktop\breakpoint conflict tracker\bin\Debug\net6.0-windows\BreakpointConflictTracker.pdb
+C:\Users\xshiz\OneDrive\Desktop\breakpoint conflict tracker\obj\Debug\net6.0-windows\BreakpointConflictTracker.dll
+C:\Users\xshiz\OneDrive\Desktop\breakpoint conflict tracker\obj\Debug\net6.0-windows\refint\BreakpointConflictTracker.dll
+C:\Users\xshiz\OneDrive\Desktop\breakpoint conflict tracker\obj\Debug\net6.0-windows\BreakpointConflictTracker.pdb
+C:\Users\xshiz\OneDrive\Desktop\breakpoint conflict tracker\obj\Debug\net6.0-windows\BreakpointConflictTracker.genruntimeconfig.cache
+C:\Users\xshiz\OneDrive\Desktop\breakpoint conflict tracker\obj\Debug\net6.0-windows\ref\BreakpointConflictTracker.dll
