@@ -1,0 +1,8 @@
+C:\Users\xshiz\OneDrive\Documents\Breakpoint-Conflict-Tracker\bin\Release\net8.0-windows\win-x64\publish\BreakpointConflictTracker.pdb
+C:\Users\xshiz\OneDrive\Documents\Breakpoint-Conflict-Tracker\bin\Release\net8.0-windows\win-x64\publish\categories.json
+C:\Users\xshiz\OneDrive\Documents\Breakpoint-Conflict-Tracker\bin\Release\net8.0-windows\win-x64\publish\D3DCompiler_47_cor3.dll
+C:\Users\xshiz\OneDrive\Documents\Breakpoint-Conflict-Tracker\bin\Release\net8.0-windows\win-x64\publish\PenImc_cor3.dll
+C:\Users\xshiz\OneDrive\Documents\Breakpoint-Conflict-Tracker\bin\Release\net8.0-windows\win-x64\publish\PresentationNative_cor3.dll
+C:\Users\xshiz\OneDrive\Documents\Breakpoint-Conflict-Tracker\bin\Release\net8.0-windows\win-x64\publish\vcruntime140_cor3.dll
+C:\Users\xshiz\OneDrive\Documents\Breakpoint-Conflict-Tracker\bin\Release\net8.0-windows\win-x64\publish\wpfgfx_cor3.dll
+C:\Users\xshiz\OneDrive\Documents\Breakpoint-Conflict-Tracker\bin\Release\net8.0-windows\win-x64\publish\BreakpointConflictTracker.exe
